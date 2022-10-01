@@ -2,7 +2,7 @@
 
 ## CLI Progress Spinner collection
 
-PySpinners is a collection of (30) progress spinners for CLI applications.
+PySpinners is a collection of progress spinners for CLI applications.
 
 ### Version
 0.0.1
@@ -14,8 +14,8 @@ pip install pyspinners
 
 ### Usage
 ```sh
-# Create new spinner instance
-spinner1 = NewSpinner()
+# Create new spinner instance (Options 1-30 for different spinner type - True/False shows both progress and spinner or just spinner)
+spinner1 = NewSpinner(1, False)
 
 # Any list or any other iterable can be used
 lst = [1, 2, 3, 4, 5]
