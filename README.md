@@ -5,7 +5,7 @@
 PySpinners is a collection of progress spinners for CLI applications.
 
 ### Version
-0.0.2
+0.0.3
 
 ### Installation
 ```sh
