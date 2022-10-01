@@ -12,6 +12,8 @@ pip install pyspinners
 
 ### Usage
 ```sh
+from pyspinners import NewSpinner
+
 # Create new spinner instance
 # Options 1-30 for different spinner type
 # True/False shows both progress and spinner or just the spinner
